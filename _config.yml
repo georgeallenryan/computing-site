@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site for information about computing labs and equipment within the Canterbury Christ
   Church University Computing Department.
 baseurl: /computing-site
-url: https://georgeallenryan.github.io
+url: georgeallenryan.github.io
 twitter_username: test
 github_username:  test
 
