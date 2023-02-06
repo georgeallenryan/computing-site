@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CCCU Computing: People"
-permalink: /people/
+title: "CCCU Computing: Labs"
+permalink: /labs/
 ---
 
 Test name [jekyllrb.com](https://jekyllrb.com/)

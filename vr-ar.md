@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CCCU Computing: People"
-permalink: /people/
+title: "CCCU Computing: VR/AR"
+permalink: /vr-ar/
 ---
 
 Test name [jekyllrb.com](https://jekyllrb.com/)
