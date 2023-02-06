@@ -4,8 +4,8 @@ title: "CCCU Computing: VR/AR"
 permalink: /vr-ar/
 ---
 
-###Meta Quest 2
+### Meta Quest 2
 
-###Valve Index
+### Valve Index
 
-###HTC Vive
+### HTC Vive
