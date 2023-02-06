@@ -4,9 +4,8 @@ title: "CCCU Computing: VR/AR"
 permalink: /vr-ar/
 ---
 
-Test name [jekyllrb.com](https://jekyllrb.com/)
-###ggggg
+###Meta Quest 2
 
-*G*
+###Valve Index
 
-*flgdseheehehe*
+###HTC Vive
